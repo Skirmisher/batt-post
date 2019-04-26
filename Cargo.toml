@@ -8,3 +8,4 @@ license = "Apache-2.0 OR MIT"
 
 [dependencies]
 battery = "0.7.1"
+multisock = "0.1.0"
