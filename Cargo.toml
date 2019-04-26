@@ -1,7 +1,8 @@
 [package]
 name = "batt-post"
 version = "0.1.0"
-authors = ["Will Springer <skirmisher@protonmail.com>"]
+authors = ["Will Springer"]
+description = "Send battery status somewhere"
 edition = "2018"
 license = "Apache-2.0 OR MIT"
 
